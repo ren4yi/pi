@@ -1,0 +1,52 @@
+header {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.rem;
+}
+
+.sec1 {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.sec2 {
+    background: url(../images/blackieshoot-qLBlMw35508-unsplash\ 1.png);
+}
+
+.color {
+    font-size: 1.3rem;
+}
+
+.color span {
+    color: red;
+}
+
+.min {
+    font-size: 0.73rem;
+}
+
+.sec3 {
+    background-color: black;
+    text-decoration: underline;
+}
+
+.buffet a {
+    background: url(../images/david-foodphototasty-2zcNfPQHlkU-unsplash\ 1.png);
+    padding: 50px 50px;
+    border-radius: 10px;
+
+}
+
+.delivery a {
+    background: url(../images/rene-lehmkuhl-I7X53lEYVDw-unsplash\ 1.png);
+    padding: 50px 50px;
+    border-radius: 10px;
+}
+
+.cardapio a{
+    background: url(../images/mahmoud-fawzy-zO3cwHrcykQ-unsplash\ 1.png);
+padding: 50px 50px;
+border-radius: 10px;
+}
