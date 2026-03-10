@@ -45,8 +45,14 @@ header {
     border-radius: 10px;
 }
 
-.cardapio a{
+.cardapio a {
     background: url(../images/mahmoud-fawzy-zO3cwHrcykQ-unsplash\ 1.png);
-padding: 50px 50px;
-border-radius: 10px;
+    padding: 50px 50px;
+    border-radius: 10px;
+}
+
+.lacarte a {
+    background: url(../images/ulti.png);
+    padding: 50px 50px;
+    border-radius: 10px;
 }
